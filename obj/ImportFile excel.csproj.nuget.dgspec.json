@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\test\\ImportFile excel\\ImportFile excel.csproj": {}
+    "D:\\test\\netcoreShop\\ImportFile excel.csproj": {}
   },
   "projects": {
-    "D:\\test\\ImportFile excel\\ImportFile excel.csproj": {
+    "D:\\test\\netcoreShop\\ImportFile excel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\test\\ImportFile excel\\ImportFile excel.csproj",
+        "projectUniqueName": "D:\\test\\netcoreShop\\ImportFile excel.csproj",
         "projectName": "ImportFile excel",
-        "projectPath": "D:\\test\\ImportFile excel\\ImportFile excel.csproj",
+        "projectPath": "D:\\test\\netcoreShop\\ImportFile excel.csproj",
         "packagesPath": "C:\\Users\\DANGNV3\\.nuget\\packages\\",
-        "outputPath": "D:\\test\\ImportFile excel\\obj\\",
+        "outputPath": "D:\\test\\netcoreShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DANGNV3\\AppData\\Roaming\\NuGet\\NuGet.Config",

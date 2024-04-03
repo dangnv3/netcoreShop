@@ -9,7 +9,6 @@ namespace ImportFile_excel.Models
         public int id { get; set; }
         [Required]
         public string name { get; set; }
-
         [Required]
         public string email { get; set; }
         [Required]
@@ -26,5 +25,7 @@ namespace ImportFile_excel.Models
         public int delete_at { get; set;}
         public DateTime createdate { get; set; }
         public DateTime updatedate { get; set; }
+        public DateTime deletedate { get; set; }
+        public DateTime birthday { get; set; }
     }
 }

@@ -9,45 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ImportFile_excel
 build_property.RootNamespace = ImportFile_excel
-build_property.ProjectDir = D:\test\ImportFile excel\
+build_property.ProjectDir = D:\test\netcoreShop\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = D:\test\ImportFile excel
+build_property.MSBuildProjectDirectory = D:\test\netcoreShop
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/test/ImportFile excel/Views/Home/Index.cshtml]
+[D:/test/netcoreShop/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/netcoreShop/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test/ImportFile excel/Views/Home/Privacy.cshtml]
+[D:/test/netcoreShop/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test/ImportFile excel/Views/ImportExcelSql/Index.cshtml]
+[D:/test/netcoreShop/Views/ImportExcelSql/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wb3J0RXhjZWxTcWxcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test/ImportFile excel/Views/Shared/Admin/_LoginLayout.cshtml]
+[D:/test/netcoreShop/Views/Shared/Admin/_LoginLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXF9Mb2dpbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test/ImportFile excel/Views/Shared/Error.cshtml]
+[D:/test/netcoreShop/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test/ImportFile excel/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/test/netcoreShop/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test/ImportFile excel/Views/_ViewImports.cshtml]
+[D:/test/netcoreShop/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/netcoreShop/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test/ImportFile excel/Views/_ViewStart.cshtml]
+[D:/test/netcoreShop/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test/ImportFile excel/Views/Shared/_Layout.cshtml]
+[D:/test/netcoreShop/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-klfd4lcbrv

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tYTy7D+4lmjM6s1IOCTvzrSEjNZLMBjF1i8oDOzlT5SHsevZ38l+y4arsIznfLxQIzfIt2YpmlbgdzmmVf5edw==",
+  "dgSpecHash": "I8g83fwwOObzty5coe7/UQ+KIJ+qEs1rFN0aYqpE2rEHJPCT8UEjbndlgbviWAqmHjVhSTr7/WPNOjBN0gPmWg==",
   "success": true,
-  "projectFilePath": "D:\\test\\ImportFile excel\\ImportFile excel.csproj",
+  "projectFilePath": "D:\\test\\netcoreShop\\ImportFile excel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DANGNV3\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\DANGNV3\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
