@@ -10,5 +10,6 @@ namespace ImportFile_excel.Models
         }
 
         public virtual DbSet<ConvertDate> ConvertDates { get; set; }
+        public virtual DbSet<UsersModel> Users { get; set; }
     }
 }
